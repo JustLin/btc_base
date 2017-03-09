@@ -22,7 +22,6 @@
     define('DB_USER', 'root');
     // 定义数据库密码
     define('DB_PWD', 'root');
-	
     // 定义数据库端口
     define('DB_PORT', '3306');
     // 开启演示模式
