@@ -26,6 +26,7 @@
     define('DB_PORT', '3306');
     // 开启演示模式
     define('APP_DEMO', 0);
+    
     // 开始调试模式
     define('M_DEBUG', 1);
     // 后台安全入口
